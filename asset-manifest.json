@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Datarouter/static/css/main.75a3c8e3.css",
+    "main.js": "/Datarouter/static/js/main.1aa82f1e.js",
+    "static/js/787.bb2660d1.chunk.js": "/Datarouter/static/js/787.bb2660d1.chunk.js",
+    "index.html": "/Datarouter/index.html",
+    "main.75a3c8e3.css.map": "/Datarouter/static/css/main.75a3c8e3.css.map",
+    "main.1aa82f1e.js.map": "/Datarouter/static/js/main.1aa82f1e.js.map",
+    "787.bb2660d1.chunk.js.map": "/Datarouter/static/js/787.bb2660d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75a3c8e3.css",
+    "static/js/main.1aa82f1e.js"
+  ]
+}
